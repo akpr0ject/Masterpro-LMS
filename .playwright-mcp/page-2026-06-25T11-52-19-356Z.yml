@@ -1,0 +1,522 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "Master Pro Academy" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e8]
+        - generic [ref=e13]:
+          - text: Master Pro
+          - generic [ref=e14]: Academy
+      - button "Toggle menu" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - img [ref=e24]
+          - heading "Boost Your Logistics Career With Dispatch Training" [level=1] [ref=e29]
+          - paragraph [ref=e30]: Master Pro is a Canadian-based academy turning ambition into real careers across North America — dispatch, freight brokerage and trucking operations with hands-on software exposure and dedicated job-placement support. No prior experience required.
+          - generic [ref=e31]:
+            - button "Enrol Now" [ref=e32] [cursor=pointer]
+            - button "Watch Stories" [ref=e33] [cursor=pointer]:
+              - img [ref=e35]
+              - text: Watch Stories
+          - generic [ref=e37]:
+            - generic [ref=e38]: 986+
+            - generic [ref=e39]: Hiring Network
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - img [ref=e43]
+            - img [ref=e52]
+            - img [ref=e55]
+          - img "Master Pro founder" [ref=e57]
+          - img [ref=e60]
+          - generic [ref=e64]:
+            - img [ref=e66]
+            - generic [ref=e71]:
+              - paragraph [ref=e72]: 986+
+              - paragraph [ref=e73]: Hiring Network
+      - generic [ref=e75]:
+        - paragraph [ref=e76]: Trusted by 500+ hiring partners
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - img [ref=e79]
+            - generic [ref=e84]: Essence
+          - generic [ref=e85]:
+            - img [ref=e86]
+            - generic [ref=e91]: FreightLink
+          - generic [ref=e92]:
+            - img [ref=e93]
+            - generic [ref=e98]: CargoNet
+          - generic [ref=e99]:
+            - img [ref=e100]
+            - generic [ref=e105]: RoadWorks
+          - generic [ref=e106]:
+            - img [ref=e107]
+            - generic [ref=e112]: HaulPro
+          - generic [ref=e113]:
+            - img [ref=e114]
+            - generic [ref=e119]: TransCore
+    - region "Promotions" [ref=e120]:
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - generic [ref=e125]: Save 10% when 2+ students enroll together!
+          - generic [ref=e126]: Onsite & online classes available
+          - generic [ref=e127]: Job placement support across North America
+        - generic [ref=e128]:
+          - generic [ref=e129]: Save 10% when 2+ students enroll together!
+          - generic [ref=e130]: Onsite & online classes available
+          - generic [ref=e131]: Job placement support across North America
+      - generic [ref=e134]:
+        - generic [ref=e135]:
+          - generic [ref=e136]: Save 40% on enrolling in All 4 courses!
+          - generic [ref=e137]: Free professional resume for every student
+          - generic [ref=e138]: No prior experience required
+        - generic [ref=e139]:
+          - generic [ref=e140]: Save 40% on enrolling in All 4 courses!
+          - generic [ref=e141]: Free professional resume for every student
+          - generic [ref=e142]: No prior experience required
+    - generic [ref=e144]:
+      - heading "Explore Our Training Programs" [level=2] [ref=e146]:
+        - text: Explore Our
+        - text: Training Programs
+      - generic [ref=e147]:
+        - link "Dispatch Training" [ref=e148] [cursor=pointer]:
+          - /url: "#"
+          - heading "Dispatch Training" [level=3] [ref=e150]
+        - link "Freight Brokerage" [ref=e151] [cursor=pointer]:
+          - /url: "#"
+          - heading "Freight Brokerage" [level=3] [ref=e153]
+        - link "Truck Safety & Compliance" [ref=e154] [cursor=pointer]:
+          - /url: "#"
+          - heading "Truck Safety & Compliance" [level=3] [ref=e156]
+        - link "Billing & Invoicing" [ref=e157] [cursor=pointer]:
+          - /url: "#"
+          - heading "Billing & Invoicing" [level=3] [ref=e159]
+    - generic [ref=e161]:
+      - generic [ref=e162]:
+        - heading "Tailored Pricing Plans Designed For You" [level=2] [ref=e163]:
+          - text: Tailored Pricing Plans
+          - text: Designed For You
+        - button "View All Courses" [ref=e164] [cursor=pointer]
+      - generic [ref=e165]:
+        - article [ref=e167]:
+          - img [ref=e169]
+          - paragraph [ref=e174]: Online Classes without Software Access
+          - heading "Dispatch Training" [level=3] [ref=e175]
+          - paragraph [ref=e176]:
+            - generic [ref=e177]: $
+            - generic [ref=e178]: "399"
+            - generic [ref=e179]: CAD
+            - generic [ref=e180]: / per user
+          - generic [ref=e182]:
+            - button "Play course preview" [ref=e183] [cursor=pointer]:
+              - img [ref=e185]
+            - generic [ref=e190]:
+              - img [ref=e191]
+              - generic [ref=e193]: 0:00 / 1:00
+              - img [ref=e194]
+              - img [ref=e196]
+          - paragraph [ref=e198]:
+            - text: Dispatch Course PDF
+            - link "Click Here To Download" [ref=e199] [cursor=pointer]:
+              - /url: "#"
+          - button "Enrol Now" [ref=e200] [cursor=pointer]
+        - article [ref=e202]:
+          - generic [ref=e203]:
+            - img [ref=e204]
+            - img [ref=e209]
+          - paragraph [ref=e211]: Online Classes without Software Access
+          - heading "Dispatch + Freight Brokerage" [level=3] [ref=e212]
+          - paragraph [ref=e213]:
+            - generic [ref=e214]: $
+            - generic [ref=e215]: "549"
+            - generic [ref=e216]: CAD
+            - generic [ref=e217]: / per user
+          - generic [ref=e219]:
+            - button "Play course preview" [ref=e220] [cursor=pointer]:
+              - img [ref=e222]
+            - generic [ref=e227]:
+              - img [ref=e228]
+              - generic [ref=e230]: 0:00 / 0:33
+              - img [ref=e231]
+              - img [ref=e233]
+          - paragraph [ref=e235]:
+            - text: Dispatch Course PDF
+            - link "Click Here To Download" [ref=e236] [cursor=pointer]:
+              - /url: "#"
+          - button "Enrol Now" [ref=e237] [cursor=pointer]
+        - article [ref=e239]:
+          - img [ref=e241]
+          - paragraph [ref=e246]: Offline / Online With Software Access
+          - heading "Truck Safety & Compliance" [level=3] [ref=e247]
+          - paragraph [ref=e248]:
+            - generic [ref=e249]: $
+            - generic [ref=e250]: "699"
+            - generic [ref=e251]: CAD
+            - generic [ref=e252]: / per user
+          - generic [ref=e254]:
+            - button "Play course preview" [ref=e255] [cursor=pointer]:
+              - img [ref=e257]
+            - generic [ref=e262]:
+              - img [ref=e263]
+              - generic [ref=e265]: 0:00 / 0:21
+              - img [ref=e266]
+              - img [ref=e268]
+          - paragraph [ref=e270]:
+            - text: Truck Safety & Compliance Course PDF
+            - link "Click Here To Download" [ref=e271] [cursor=pointer]:
+              - /url: "#"
+          - button "Enrol Now" [ref=e272] [cursor=pointer]
+        - article [ref=e274]:
+          - generic [ref=e275]:
+            - img [ref=e276]
+            - img [ref=e281]
+          - paragraph [ref=e283]: Online Without Software Access
+          - heading "Billing & Invoicing" [level=3] [ref=e284]
+          - paragraph [ref=e285]:
+            - generic [ref=e286]: $
+            - generic [ref=e287]: "249"
+            - generic [ref=e288]: CAD
+            - generic [ref=e289]: / per user
+          - generic [ref=e291]:
+            - button "Play course preview" [ref=e292] [cursor=pointer]:
+              - img [ref=e294]
+            - generic [ref=e299]:
+              - img [ref=e300]
+              - generic [ref=e302]: 0:00 / 0:23
+              - img [ref=e303]
+              - img [ref=e305]
+          - paragraph [ref=e307]:
+            - text: Billing & Invoicing Course PDF
+            - link "Click Here To Download" [ref=e308] [cursor=pointer]:
+              - /url: "#"
+          - button "Enrol Now" [ref=e309] [cursor=pointer]
+        - article [ref=e311]:
+          - generic [ref=e312]:
+            - img [ref=e313]
+            - img [ref=e318]
+          - paragraph [ref=e320]: Save 40% — Enrol in all 4 courses
+          - heading "Complete Trucking Portal" [level=3] [ref=e321]
+          - paragraph [ref=e322]:
+            - generic [ref=e323]: 40%
+            - generic [ref=e324]: "OFF"
+            - generic [ref=e325]: all 4 courses
+          - generic [ref=e327]:
+            - button "Play course preview" [ref=e328] [cursor=pointer]:
+              - img [ref=e330]
+            - generic [ref=e335]:
+              - img [ref=e336]
+              - generic [ref=e338]: 0:00 / 1:20
+              - img [ref=e339]
+              - img [ref=e341]
+          - paragraph [ref=e343]:
+            - text: Complete Trucking Portal PDF
+            - link "Click Here To Download" [ref=e344] [cursor=pointer]:
+              - /url: "#"
+          - button "Enrol Now" [ref=e345] [cursor=pointer]
+        - article [ref=e347]:
+          - img [ref=e349]
+          - paragraph [ref=e354]: Try a sample lesson before you enrol
+          - heading "Demo Course" [level=3] [ref=e355]
+          - paragraph [ref=e356]:
+            - generic [ref=e357]: $
+            - generic [ref=e358]: "50"
+            - generic [ref=e359]: CAD
+            - generic [ref=e360]: / per user
+          - generic [ref=e362]:
+            - button "Play course preview" [ref=e363] [cursor=pointer]:
+              - img [ref=e365]
+            - generic [ref=e370]:
+              - img [ref=e371]
+              - generic [ref=e373]: 0:00 / 0:45
+              - img [ref=e374]
+              - img [ref=e376]
+          - paragraph [ref=e378]:
+            - text: Demo Course PDF
+            - link "Click Here To Download" [ref=e379] [cursor=pointer]:
+              - /url: "#"
+          - button "Enrol Now" [ref=e380] [cursor=pointer]
+    - generic [ref=e382]:
+      - heading "Hear From Our Successful Graduates" [level=2] [ref=e384]:
+        - text: Hear From Our
+        - text: Successful Graduates
+      - generic [ref=e385]:
+        - generic [ref=e386]:
+          - generic [ref=e387]:
+            - img [ref=e388]
+            - img [ref=e390]
+            - img [ref=e392]
+            - img [ref=e394]
+            - img [ref=e396]
+          - paragraph [ref=e398]: “The freight brokerage course was excellent. I learned how to manage loads and talk to shippers, and after the course they helped me find a job. Now I am working as a broker — thank you!”
+          - generic [ref=e400]:
+            - paragraph [ref=e401]: Simran Kaur
+            - paragraph [ref=e402]: Freight Broker · Canada
+        - generic [ref=e403]:
+          - generic [ref=e404]:
+            - img [ref=e405]
+            - img [ref=e407]
+            - img [ref=e409]
+            - img [ref=e411]
+            - img [ref=e413]
+          - paragraph [ref=e415]: “The dispatch training was great. I didn’t know much before, but the trainers explained everything step by step. After finishing, I quickly got a job with their help.”
+          - generic [ref=e417]:
+            - paragraph [ref=e418]: Kulwinder Singh
+            - paragraph [ref=e419]: Dispatcher · India
+        - generic [ref=e420]:
+          - generic [ref=e421]:
+            - img [ref=e422]
+            - img [ref=e424]
+            - img [ref=e426]
+            - img [ref=e428]
+            - img [ref=e430]
+          - paragraph [ref=e432]: “Thanks to Master Pro, I am now working in my dream job as a freight broker. I cannot thank them enough for their support and guidance throughout my journey.”
+          - generic [ref=e434]:
+            - paragraph [ref=e435]: Preet Rooprai
+            - paragraph [ref=e436]: Freight Broker · Canada
+    - generic [ref=e438]:
+      - generic [ref=e440]:
+        - paragraph [ref=e441]: 40% OFF
+        - paragraph [ref=e442]: All 4 courses bundle
+      - generic [ref=e444]:
+        - heading "Why Master Pro" [level=2] [ref=e446]:
+          - text: Why
+          - text: Master Pro
+        - paragraph [ref=e447]: Our programs are built around how the industry actually works — not just theory. Learn with practical tools, real software exposure and personalized instruction in small-class settings, backed by strong industry connections that help you land real jobs.
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - paragraph [ref=e450]: 986+
+            - paragraph [ref=e451]: Hiring partner companies across North America
+          - generic [ref=e452]:
+            - paragraph [ref=e453]: 100%
+            - paragraph [ref=e454]: Free professional resume for every student
+        - generic [ref=e455]:
+          - button "Enrol Now" [ref=e456] [cursor=pointer]
+          - button "Contact Us" [ref=e457] [cursor=pointer]
+    - generic [ref=e460]:
+      - generic [ref=e462]:
+        - paragraph [ref=e463]: From Student to Success
+        - heading "See dispatch training in action" [level=3] [ref=e464]
+      - button "Play video" [ref=e465] [cursor=pointer]:
+        - img [ref=e466]
+    - generic [ref=e469]:
+      - generic [ref=e470]:
+        - heading "Career-Focused Training Paths" [level=2] [ref=e471]:
+          - text: Career-Focused
+          - text: Training Paths
+        - button "View All Paths" [ref=e472] [cursor=pointer]
+      - generic [ref=e473]:
+        - generic [ref=e476]:
+          - paragraph [ref=e477]: Dispatch
+          - heading "Dispatch Training" [level=3] [ref=e478]
+          - paragraph [ref=e479]: by Master Pro
+          - generic [ref=e480]:
+            - generic [ref=e481]:
+              - img [ref=e482]
+              - text: 24 Hours
+            - generic [ref=e485]:
+              - img [ref=e486]
+              - text: 12 Modules
+            - generic [ref=e489]:
+              - img [ref=e490]
+              - text: 320+ Joined
+          - button "Enrol Now" [ref=e493] [cursor=pointer]
+        - generic [ref=e496]:
+          - paragraph [ref=e497]: Freight Brokerage
+          - heading "Freight Brokerage" [level=3] [ref=e498]
+          - paragraph [ref=e499]: by Master Pro
+          - generic [ref=e500]:
+            - generic [ref=e501]:
+              - img [ref=e502]
+              - text: 36 Hours
+            - generic [ref=e505]:
+              - img [ref=e506]
+              - text: 18 Modules
+            - generic [ref=e509]:
+              - img [ref=e510]
+              - text: 280+ Joined
+          - button "Enrol Now" [ref=e513] [cursor=pointer]
+        - generic [ref=e516]:
+          - paragraph [ref=e517]: Compliance
+          - heading "Safety & Compliance" [level=3] [ref=e518]
+          - paragraph [ref=e519]: by Master Pro
+          - generic [ref=e520]:
+            - generic [ref=e521]:
+              - img [ref=e522]
+              - text: 28 Hours
+            - generic [ref=e525]:
+              - img [ref=e526]
+              - text: 14 Modules
+            - generic [ref=e529]:
+              - img [ref=e530]
+              - text: 190+ Joined
+          - button "Enrol Now" [ref=e533] [cursor=pointer]
+    - generic [ref=e535]:
+      - heading "Everything You Need To Get Hired" [level=2] [ref=e537]:
+        - text: Everything You Need
+        - text: To Get Hired
+      - generic [ref=e538]:
+        - generic [ref=e540]:
+          - heading "Free Professional Resume" [level=3] [ref=e541]
+          - paragraph [ref=e542]: Industry-standard, included
+        - generic [ref=e544]:
+          - heading "Job Placement Support" [level=3] [ref=e545]
+          - paragraph [ref=e546]: 986+ partner companies
+        - generic [ref=e548]:
+          - heading "Real Software Access" [level=3] [ref=e549]
+          - paragraph [ref=e550]: Hands-on dispatch tools
+        - generic [ref=e552]:
+          - heading "Small-Class Instruction" [level=3] [ref=e553]
+          - paragraph [ref=e554]: Personalized guidance
+      - generic [ref=e555]:
+        - paragraph [ref=e556]: From day one to your first job offer, Master Pro supports you with real training, industry connections and placement assistance across North America.
+        - button "Talk to Admissions" [ref=e558] [cursor=pointer]
+    - generic [ref=e560]:
+      - generic [ref=e561]:
+        - heading "Frequently Asked Questions" [level=2] [ref=e562]:
+          - text: Frequently
+          - text: Asked Questions
+        - paragraph [ref=e563]: Answers to the most common questions about job placement, eligibility for newcomers, immigration pathways and how our courses get you hired.
+        - button "Contact Admissions" [ref=e565] [cursor=pointer]
+      - generic [ref=e566]:
+        - generic [ref=e567]:
+          - button "What contributes to your high job-placement success rate?" [ref=e568] [cursor=pointer]:
+            - generic [ref=e569]: What contributes to your high job-placement success rate?
+            - img [ref=e572]
+          - paragraph [ref=e574]: Our placement services are supported by Essence Transportation Inc. When students finish a course, we share their resumes with our network of 986 transportation and freight brokerage companies across North America.
+        - button "Can these jobs help with Permanent Residency in Canada?" [ref=e576] [cursor=pointer]:
+          - generic [ref=e577]: Can these jobs help with Permanent Residency in Canada?
+          - img [ref=e580]
+        - button "Can people with no prior experience get hired?" [ref=e583] [cursor=pointer]:
+          - generic [ref=e584]: Can people with no prior experience get hired?
+          - img [ref=e587]
+        - button "Are the jobs on your social media genuine and free?" [ref=e590] [cursor=pointer]:
+          - generic [ref=e591]: Are the jobs on your social media genuine and free?
+          - img [ref=e594]
+        - button "Are there any educational or minimum requirements?" [ref=e597] [cursor=pointer]:
+          - generic [ref=e598]: Are there any educational or minimum requirements?
+          - img [ref=e601]
+        - button "What learning options are available?" [ref=e604] [cursor=pointer]:
+          - generic [ref=e605]: What learning options are available?
+          - img [ref=e608]
+    - generic [ref=e611]:
+      - generic [ref=e612]:
+        - heading "Documents & Resources" [level=2] [ref=e613]:
+          - text: Documents
+          - text: "& Resources"
+        - button "View All Resources" [ref=e614] [cursor=pointer]
+      - generic [ref=e615]:
+        - generic [ref=e618]:
+          - generic [ref=e619]:
+            - generic [ref=e620]: Guide
+            - generic [ref=e621]: Downloadable PDF
+          - heading "FreightGuard Removal Guide" [level=3] [ref=e622]
+          - button "Purchase Now" [ref=e623] [cursor=pointer]:
+            - text: Purchase Now
+            - img [ref=e624]
+        - generic [ref=e628]:
+          - generic [ref=e629]:
+            - generic [ref=e630]: Resource
+            - generic [ref=e631]: Downloadable PDF
+          - heading "Unpaid Freight Bill Collections" [level=3] [ref=e632]
+          - button "Purchase Now" [ref=e633] [cursor=pointer]:
+            - text: Purchase Now
+            - img [ref=e634]
+        - generic [ref=e638]:
+          - generic [ref=e639]:
+            - generic [ref=e640]: Guide
+            - generic [ref=e641]: Downloadable PDF
+          - heading "Start Your Trucking Company" [level=3] [ref=e642]
+          - button "Purchase Now" [ref=e643] [cursor=pointer]:
+            - text: Purchase Now
+            - img [ref=e644]
+    - generic [ref=e649]:
+      - heading "Navigate the Future of Dispatch with Confidence" [level=2] [ref=e650]
+      - paragraph [ref=e651]: Take the first step toward a real career in logistics and transportation. Talk to our admissions team about onsite or online training — no prior experience required.
+      - generic [ref=e652]:
+        - textbox "Enter your email address" [ref=e653]
+        - button "Enquire Now" [ref=e654] [cursor=pointer]
+  - contentinfo [ref=e655]:
+    - generic [ref=e656]:
+      - generic [ref=e657]:
+        - generic [ref=e658]:
+          - link "Master Pro Academy" [ref=e659] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e661]
+            - generic [ref=e666]:
+              - text: Master Pro
+              - generic [ref=e667]: Academy
+          - paragraph [ref=e668]: Navigate the Future of Dispatch with Confidence. A Canadian-based academy training the next generation of logistics and transportation professionals.
+          - generic [ref=e669]:
+            - link "f" [ref=e670] [cursor=pointer]:
+              - /url: "#"
+            - link "yt" [ref=e671] [cursor=pointer]:
+              - /url: "#"
+            - link "ig" [ref=e672] [cursor=pointer]:
+              - /url: "#"
+            - link "tk" [ref=e673] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e674]:
+          - heading "Programs" [level=4] [ref=e675]
+          - list [ref=e676]:
+            - listitem [ref=e677]:
+              - link "Dispatch Training" [ref=e678] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e679]:
+              - link "Dispatch + Freight Brokerage" [ref=e680] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e681]:
+              - link "Truck Safety & Compliance" [ref=e682] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e683]:
+              - link "Billing & Invoicing" [ref=e684] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e685]:
+              - link "Demo Course" [ref=e686] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e687]:
+          - heading "Academy" [level=4] [ref=e688]
+          - list [ref=e689]:
+            - listitem [ref=e690]:
+              - link "About Us" [ref=e691] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e692]:
+              - link "Why Master Pro?" [ref=e693] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e694]:
+              - link "Resume Support" [ref=e695] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e696]:
+              - link "Documents & Resources" [ref=e697] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e698]:
+              - link "Success Stories" [ref=e699] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e700]:
+          - heading "Contact" [level=4] [ref=e701]
+          - list [ref=e702]:
+            - listitem [ref=e703]:
+              - link "🇨🇦 +1 (437) 463-5865" [ref=e704] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e705]:
+              - link "🇺🇸 +1 (415) 738-3805" [ref=e706] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e707]:
+              - link "registration@masterpro.ca" [ref=e708] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e709]:
+              - link "Unit 4 – 5484 Tomken Rd," [ref=e710] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e711]:
+              - link "Mississauga, ON L4W 2Z6" [ref=e712] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=e713]:
+        - paragraph [ref=e714]: © 2026 Master Pro. All Rights Reserved.
+        - generic [ref=e715]:
+          - link "Privacy Policy" [ref=e716] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms & Conditions" [ref=e717] [cursor=pointer]:
+            - /url: "#"
+          - link "Enrolment Contract" [ref=e718] [cursor=pointer]:
+            - /url: "#"

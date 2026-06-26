@@ -1,0 +1,858 @@
+- generic [active] [ref=e1]:
+  - navigation "Skip links":
+    - link "Skip to main content" [ref=e2] [cursor=pointer]:
+      - /url: "#ajax-content-wrap"
+  - generic [ref=e4]:
+    - banner "Main Menu" [ref=e6]:
+      - generic [ref=e8]:
+        - link "ITS Dispatch Academy" [ref=e10] [cursor=pointer]:
+          - /url: https://itsdispatch.ca
+          - img "ITS Dispatch Academy" [ref=e11]
+        - generic [ref=e12]:
+          - text: 
+          - navigation "Main Menu" [ref=e13]:
+            - list [ref=e14]:
+              - listitem [ref=e15]:
+                - link "About Us" [ref=e16] [cursor=pointer]:
+                  - /url: "#intro"
+              - listitem [ref=e17]:
+                - link "Why ITS Dispatch?" [ref=e18] [cursor=pointer]:
+                  - /url: "#testimonials"
+              - listitem [ref=e19]:
+                - link "Courses" [ref=e20] [cursor=pointer]:
+                  - /url: https://itsdispatch.ca/#how-it-works
+              - listitem [ref=e21]:
+                - link "Resume" [ref=e22] [cursor=pointer]:
+                  - /url: "#Resume"
+              - listitem [ref=e23]:
+                - link "Documents" [ref=e24] [cursor=pointer]:
+                  - /url: https://itsdispatch.ca/documents-resources/
+        - navigation [ref=e26]:
+          - list [ref=e27]:
+            - listitem [ref=e28]:
+              - link "C o n t a c t U s N o w !" [ref=e29] [cursor=pointer]:
+                - /url: https://itsdispatch.ca/contact-us/
+                - generic [ref=e32]:
+                  - generic [ref=e33]: C
+                  - generic [ref=e34]: o
+                  - generic [ref=e35]: "n"
+                  - generic [ref=e36]: t
+                  - generic [ref=e37]: a
+                  - generic [ref=e38]: c
+                  - generic [ref=e39]: t
+                  - generic [ref=e40]: U
+                  - generic [ref=e41]: s
+                  - generic [ref=e42]: "N"
+                  - generic [ref=e43]: o
+                  - generic [ref=e44]: w
+                  - generic [ref=e45]: "!"
+            - listitem [ref=e46]:
+              - generic [ref=e47]:
+                - link "Cart" [ref=e50] [cursor=pointer]:
+                  - /url: https://itsdispatch.ca/my-cart/
+                  - generic [ref=e52]: 
+                - text: "\"\""
+                - generic:
+                  - generic:
+                    - paragraph: No products in the basket.
+          - list [ref=e54]:
+            - listitem [ref=e55]:
+              - link "facebook" [ref=e56] [cursor=pointer]:
+                - /url: https://www.facebook.com/profile.php?id=61556945432794
+                - generic [ref=e57]: facebook
+                - generic [ref=e58]:  
+              - link "youtube" [ref=e59] [cursor=pointer]:
+                - /url: https://www.youtube.com/@itsdispatchacademy
+                - generic [ref=e60]: youtube
+                - generic [ref=e61]:  
+              - link "instagram" [ref=e62] [cursor=pointer]:
+                - /url: https://www.instagram.com/itsdispatch.ca/
+                - generic [ref=e63]: instagram
+                - generic [ref=e64]:  
+              - link "tiktok" [ref=e65] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@itsdispatch.ca?_t=8jc7GoR5u1V&_r=1
+                - generic [ref=e66]: tiktok
+                - generic [ref=e67]:  
+    - generic [ref=e69]:
+      - main [ref=e70]:
+        - generic [ref=e71]:
+          - generic [ref=e86]:
+            - generic [ref=e89]:
+              - heading "Boost Your Logistics Career With Dispatch Training." [level=1] [ref=e98]
+              - button "Contact Us" [ref=e109] [cursor=pointer]:
+                - generic [ref=e110]:
+                  - generic [ref=e111]: C
+                  - generic [ref=e112]: o
+                  - generic [ref=e113]: "n"
+                  - generic [ref=e114]: t
+                  - generic [ref=e115]: a
+                  - generic [ref=e116]: c
+                  - generic [ref=e117]: t
+                  - generic [ref=e118]: U
+                  - generic [ref=e119]: s
+            - generic [ref=e122]:
+              - img [ref=e133]
+              - img [ref=e152]
+          - generic [ref=e200]:
+            - generic [ref=e207]:
+              - img [ref=e211]
+              - heading "Our courses are a great way to kickstart your education and get you on the path to success!" [level=2] [ref=e214]:
+                - text: Our courses are a great way to kickstart your education and get you on the
+                - emphasis [ref=e215]: path to success!
+            - generic [ref=e223]:
+              - paragraph [ref=e225]:
+                - generic [ref=e227]: ITS
+                - generic [ref=e229]: Dispatch
+                - generic [ref=e231]: Academy
+                - generic [ref=e233]: is
+                - generic [ref=e235]: a
+                - generic [ref=e237]: Canadian-based
+                - generic [ref=e239]: professional
+                - generic [ref=e241]: training
+                - generic [ref=e243]: institution
+                - generic [ref=e245]: with
+                - generic [ref=e247]: dedicated
+                - generic [ref=e249]: to
+                - generic [ref=e251]: empowering
+                - generic [ref=e253]: individuals
+                - generic [ref=e255]: with
+                - generic [ref=e257]: the
+                - generic [ref=e259]: skills
+                - generic [ref=e261]: and
+                - generic [ref=e263]: knowledge
+                - generic [ref=e265]: needed
+                - generic [ref=e267]: to
+                - generic [ref=e269]: succeed
+                - generic [ref=e271]: in
+                - generic [ref=e273]: the
+                - generic [ref=e275]: logistics
+                - generic [ref=e277]: and
+                - generic [ref=e279]: transportation
+                - generic [ref=e281]: industry.
+                - generic [ref=e283]: We
+                - generic [ref=e285]: specialize
+                - generic [ref=e287]: in
+                - generic [ref=e289]: comprehensive
+                - generic [ref=e291]: education
+                - generic [ref=e293]: programs
+                - generic [ref=e295]: that
+                - generic [ref=e297]: cover
+                - generic [ref=e299]: key
+                - generic [ref=e301]: areas
+                - generic [ref=e303]: such
+                - generic [ref=e305]: as
+                - generic [ref=e307]: dispatch
+                - generic [ref=e309]: training,
+                - generic [ref=e311]: freight
+                - generic [ref=e313]: brokerage,
+                - generic [ref=e315]: truck
+                - generic [ref=e317]: safety
+                - generic [ref=e319]: and
+                - generic [ref=e321]: compliance,
+                - generic [ref=e323]: and
+                - generic [ref=e325]: billing
+                - generic [ref=e327]: "&"
+                - generic [ref=e329]: invoicing
+                - generic [ref=e331]: "-all"
+                - generic [ref=e333]: designed
+                - generic [ref=e335]: to
+                - generic [ref=e337]: prepare
+                - generic [ref=e339]: students
+                - generic [ref=e341]: for
+                - generic [ref=e343]: real-world
+                - generic [ref=e345]: roles
+                - generic [ref=e347]: in
+                - generic [ref=e349]: one
+                - generic [ref=e351]: of
+                - generic [ref=e353]: today’s
+                - generic [ref=e355]: fastest-growing
+                - generic [ref=e357]: sectors.
+              - paragraph [ref=e359]:
+                - generic [ref=e361]: ITS
+                - generic [ref=e363]: Dispatch
+                - generic [ref=e365]: Academy
+                - generic [ref=e367]: is
+                - generic [ref=e369]: built
+                - generic [ref=e371]: for
+                - generic [ref=e373]: one
+                - generic [ref=e375]: purpose
+                - generic [ref=e377]: "-"
+                - generic [ref=e379]: to
+                - generic [ref=e381]: turn
+                - generic [ref=e383]: ambition
+                - generic [ref=e385]: into
+                - generic [ref=e387]: real
+                - generic [ref=e389]: careers
+                - generic [ref=e391]: in
+                - generic [ref=e393]: the
+                - generic [ref=e395]: logistics
+                - generic [ref=e397]: and
+                - generic [ref=e399]: transportation
+                - generic [ref=e401]: industry.
+              - paragraph [ref=e403]:
+                - generic [ref=e405]: Our
+                - generic [ref=e407]: programs
+                - generic [ref=e409]: are
+                - generic [ref=e411]: designed
+                - generic [ref=e413]: around
+                - generic [ref=e415]: how
+                - generic [ref=e417]: the
+                - generic [ref=e419]: industry
+                - generic [ref=e421]: actually
+                - generic [ref=e423]: works,
+                - generic [ref=e425]: not
+                - generic [ref=e427]: just
+                - generic [ref=e429]: theory
+                - generic [ref=e431]: "-with"
+                - generic [ref=e433]: practical
+                - generic [ref=e435]: tools,
+                - generic [ref=e437]: real
+                - generic [ref=e439]: software
+                - generic [ref=e441]: exposure,
+                - generic [ref=e443]: and
+                - generic [ref=e445]: personalized
+                - generic [ref=e447]: instruction
+                - generic [ref=e449]: in
+                - generic [ref=e451]: small-class
+                - generic [ref=e453]: settings.
+              - paragraph [ref=e455]:
+                - generic [ref=e457]: What
+                - generic [ref=e459]: sets
+                - generic [ref=e461]: us
+                - generic [ref=e463]: apart
+                - generic [ref=e465]: is
+                - generic [ref=e467]: our
+                - generic [ref=e469]: strong
+                - generic [ref=e471]: industry
+                - generic [ref=e473]: connection.
+                - generic [ref=e475]: Through
+                - generic [ref=e477]: partnerships
+                - generic [ref=e479]: with
+                - generic [ref=e481]: transportation
+                - generic [ref=e483]: and
+                - generic [ref=e485]: freight
+                - generic [ref=e487]: brokerage
+                - generic [ref=e489]: companies
+                - generic [ref=e491]: across
+                - generic [ref=e493]: North
+                - generic [ref=e495]: America,
+                - generic [ref=e497]: including
+                - generic [ref=e499]: Essence
+                - generic [ref=e501]: Transportation
+                - generic [ref=e503]: Inc.,
+                - generic [ref=e505]: we
+                - generic [ref=e507]: support
+                - generic [ref=e509]: our
+                - generic [ref=e511]: students
+                - generic [ref=e513]: beyond
+                - generic [ref=e515]: the
+                - generic [ref=e517]: classroom-
+                - generic [ref=e519]: helping
+                - generic [ref=e521]: them
+                - generic [ref=e523]: transition
+                - generic [ref=e525]: into
+                - generic [ref=e527]: real
+                - generic [ref=e529]: job
+                - generic [ref=e531]: opportunities
+                - generic [ref=e533]: aligned
+                - generic [ref=e535]: with
+                - generic [ref=e537]: NOC
+                - generic [ref=e539]: classifications
+                - generic [ref=e541]: and
+                - generic [ref=e543]: long-term
+                - generic [ref=e545]: career
+                - generic [ref=e547]: growth.
+              - paragraph [ref=e549]:
+                - generic [ref=e551]: "No"
+                - generic [ref=e553]: prior
+                - generic [ref=e555]: experience
+                - generic [ref=e557]: required.
+                - generic [ref=e559]: Just
+                - generic [ref=e561]: the
+                - generic [ref=e563]: drive
+                - generic [ref=e565]: to
+                - generic [ref=e567]: learn,
+                - generic [ref=e569]: grow,
+                - generic [ref=e571]: and
+                - generic [ref=e573]: succeed.
+                - generic [ref=e575]: At
+                - generic [ref=e577]: ITS
+                - generic [ref=e579]: Dispatch
+                - generic [ref=e581]: Academy,
+                - generic [ref=e583]: we
+                - generic [ref=e585]: don’t
+                - generic [ref=e587]: just
+                - generic [ref=e589]: teach
+                - generic [ref=e591]: skills-
+                - generic [ref=e593]: we
+                - generic [ref=e595]: help
+                - generic [ref=e597]: build
+                - generic [ref=e599]: futures.
+          - generic [ref=e624]:
+            - generic [ref=e633]:
+              - heading "Choose Your Learning Adventure Onsite & Online classes Options Available!" [level=2] [ref=e634]:
+                - text: Choose Your Learning Adventure
+                - strong [ref=e636]: Onsite &
+                - strong [ref=e638]: Online
+                - text: classes Options Available!
+              - heading [level=2] [ref=e639]
+            - heading "Our company is dedicated to equipping students with the diverse skill set needed for success in the dynamic fields of logistics and transportation." [level=2] [ref=e651]:
+              - text: Our company is dedicated to equipping students with the diverse skill set needed for success in the dynamic fields of logistics and
+              - emphasis [ref=e652]: transportation.
+          - generic [ref=e661]:
+            - heading "Tailored pricing plans designed for you" [level=2] [ref=e670]:
+              - text: Tailored pricing plans
+              - emphasis [ref=e671]: designed
+              - text: for you
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Save 25%
+            - generic [ref=e674]:
+              - tablist [ref=e675]:
+                - listitem [ref=e676]:
+                  - tab "Online - Without Software Access" [selected] [ref=e677] [cursor=pointer]
+                - listitem [ref=e678]:
+                  - button "Toggle" [ref=e679] [cursor=pointer]:
+                    - generic [ref=e680]: Toggle
+                - listitem [ref=e682]:
+                  - tab "Offline / Online With Software Access" [ref=e683] [cursor=pointer]
+              - tabpanel "Online - Without Software Access" [ref=e684]:
+                - generic [ref=e688]:
+                  - generic [ref=e691]:
+                    - generic [ref=e699]: Online Classes without Software Access
+                    - paragraph [ref=e701]: Dispatch Training
+                    - generic [ref=e702]: $399 CAD/ per user
+                    - paragraph [ref=e710]:
+                      - text: Dispatch Course PDF
+                      - link "Click Here To Download" [ref=e711] [cursor=pointer]:
+                        - /url: https://itsdispatch.ca/wp-content/uploads/2025/07/ITS-Dispatch-Academy.pdf
+                    - button "Enrol Now" [ref=e717] [cursor=pointer]:
+                      - generic [ref=e718]:
+                        - generic [ref=e719]: E
+                        - generic [ref=e720]: "n"
+                        - generic [ref=e721]: r
+                        - generic [ref=e722]: o
+                        - generic [ref=e723]: l
+                        - generic [ref=e724]: "N"
+                        - generic [ref=e725]: o
+                        - generic [ref=e726]: w
+                  - generic [ref=e729]:
+                    - generic [ref=e742]: Online Classes without Software Access
+                    - paragraph [ref=e744]: Dispatch + Freight Brokerage
+                    - generic [ref=e745]: $549 CAD/ per user
+                    - paragraph [ref=e753]:
+                      - text: Dispatch Course PDF
+                      - link "Click Here To Download" [ref=e754] [cursor=pointer]:
+                        - /url: https://itsdispatch.ca/wp-content/uploads/2025/07/ITS-Dispatch-Academy.pdf
+                    - button "Enrol Now" [ref=e760] [cursor=pointer]:
+                      - generic [ref=e761]:
+                        - generic [ref=e762]: E
+                        - generic [ref=e763]: "n"
+                        - generic [ref=e764]: r
+                        - generic [ref=e765]: o
+                        - generic [ref=e766]: l
+                        - generic [ref=e767]: "N"
+                        - generic [ref=e768]: o
+                        - generic [ref=e769]: w
+                - generic [ref=e773]:
+                  - generic [ref=e776]:
+                    - paragraph [ref=e785]: Truck Safety & Compliance
+                    - generic [ref=e786]: $699 CAD/ per user
+                    - paragraph [ref=e794]:
+                      - strong [ref=e795]:
+                        - text: Truck Safety & Compliance Course PDF
+                        - link "Click Here To Download" [ref=e796] [cursor=pointer]:
+                          - /url: https://itsdispatch.ca/wp-content/uploads/2025/07/Safety-And-Compliance-Course.pdf
+                    - button "Enrol Now" [ref=e802] [cursor=pointer]:
+                      - generic [ref=e803]:
+                        - generic [ref=e804]: E
+                        - generic [ref=e805]: "n"
+                        - generic [ref=e806]: r
+                        - generic [ref=e807]: o
+                        - generic [ref=e808]: l
+                        - generic [ref=e809]: "N"
+                        - generic [ref=e810]: o
+                        - generic [ref=e811]: w
+                  - generic [ref=e814]:
+                    - paragraph [ref=e828]:
+                      - text: Billing & Invoicing
+                      - text: (Online Without Software Access)
+                    - generic [ref=e829]: $249 CAD/ per user
+                    - paragraph [ref=e837]:
+                      - generic [ref=e838]:
+                        - text: Billing & Invoicing Course PDF
+                        - link "Click Here To Download" [ref=e839] [cursor=pointer]:
+                          - /url: https://itsdispatch.ca/wp-content/uploads/2025/07/Billing-Invoicing-Course-Outline.pdf
+                    - button "Enrol Now" [ref=e845] [cursor=pointer]:
+                      - generic [ref=e846]:
+                        - generic [ref=e847]: E
+                        - generic [ref=e848]: "n"
+                        - generic [ref=e849]: r
+                        - generic [ref=e850]: o
+                        - generic [ref=e851]: l
+                        - generic [ref=e852]: "N"
+                        - generic [ref=e853]: o
+                        - generic [ref=e854]: w
+                - generic [ref=e861]:
+                  - paragraph [ref=e870]: Demo Course
+                  - generic [ref=e871]: $50 CAD/ per user
+                  - paragraph [ref=e879]:
+                    - strong [ref=e880]:
+                      - text: Demo Course PDF
+                      - link "Click Here To Download" [ref=e881] [cursor=pointer]:
+                        - /url: https://itsdispatch.ca/wp-content/uploads/2025/02/ITS-Dispatch-Academy-DEMO-Updated.pdf
+                  - button "Enrol Now" [ref=e887] [cursor=pointer]:
+                    - generic [ref=e888]:
+                      - generic [ref=e889]: E
+                      - generic [ref=e890]: "n"
+                      - generic [ref=e891]: r
+                      - generic [ref=e892]: o
+                      - generic [ref=e893]: l
+                      - generic [ref=e894]: "N"
+                      - generic [ref=e895]: o
+                      - generic [ref=e896]: w
+          - generic [ref=e902]:
+            - img [ref=e907]
+            - generic [ref=e912]:
+              - paragraph [ref=e921]: Save Big – 40% Off All Courses
+              - generic [ref=e928]:
+                - generic [ref=e930]: Promo Ending This Month
+                - heading "Affordable Education, Incredible Value!" [level=1] [ref=e932]
+              - paragraph [ref=e938]:
+                - strong [ref=e939]:
+                  - text: Complete Trucking Portal PDF
+                  - link "Click Here To Download" [ref=e940] [cursor=pointer]:
+                    - /url: https://itsdispatch.ca/wp-content/uploads/2025/07/ITS-Dispatch-Academy-ALL-Course-2.pdf
+              - button "Get 40% Enroll Now" [ref=e951] [cursor=pointer]:
+                - generic [ref=e952]: Get 40% Enroll Now
+                - img [ref=e953]
+          - generic [ref=e987]:
+            - heading "Save 40% on enrolling in All 4 courses!" [level=2] [ref=e989]
+            - heading [level=2] [ref=e991]: Save 40% on enrolling in All 4 courses!
+            - heading [level=2] [ref=e993]: Save 40% on enrolling in All 4 courses!
+            - heading [level=2] [ref=e995]: Save 40% on enrolling in All 4 courses!
+            - heading [level=2] [ref=e997]: Save 40% on enrolling in All 4 courses!
+          - generic [ref=e1007]:
+            - heading "Save 10% when 2+ students enroll together!" [level=2] [ref=e1009]
+            - heading [level=2] [ref=e1011]: Save 10% when 2+ students enroll together!
+            - heading [level=2] [ref=e1013]: Save 10% when 2+ students enroll together!
+            - heading [level=2] [ref=e1015]: Save 10% when 2+ students enroll together!
+            - heading [level=2] [ref=e1017]: Save 10% when 2+ students enroll together!
+          - generic [ref=e1035]:
+            - heading "Documents & Resources" [level=1] [ref=e1044]:
+              - link "Documents & Resources" [ref=e1045] [cursor=pointer]:
+                - /url: https://itsdispatch.ca/product-category/documents/?orderby=price
+                - strong [ref=e1046]:
+                  - text: Documents &
+                  - emphasis [ref=e1047]: Resources
+            - region "Carousel" [ref=e1051]:
+              - generic [ref=e1053]:
+                - generic [ref=e1056]:
+                  - generic [ref=e1058]:
+                    - link "Play Video" [ref=e1059] [cursor=pointer]:
+                      - /url: https://itsdispatch.ca/wp-content/uploads/woocommerce_uploads/2026/06/ITS_FreightGuard_Sales_HD-bvy2zn.mp4
+                      - generic [ref=e1060]: Play Video
+                    - img "video preview" [ref=e1061]
+                    - link "Play Video" [ref=e1062] [cursor=pointer]:
+                      - /url: https://itsdispatch.ca/wp-content/uploads/woocommerce_uploads/2026/06/ITS_FreightGuard_Sales_HD-bvy2zn.mp4
+                      - generic [ref=e1064]: Play Video
+                  - heading "FreightGuard Removal Guide" [level=2] [ref=e1068]
+                  - button "Purchase Now" [ref=e1072] [cursor=pointer]
+                - generic [ref=e1075]:
+                  - generic [ref=e1077]:
+                    - link "Play Video" [ref=e1078] [cursor=pointer]:
+                      - /url: https://itsdispatch.ca/wp-content/uploads/woocommerce_uploads/2026/06/ITS_Dispatch_Collections_SALES_Narrated-lbb60v.mp4
+                      - generic [ref=e1079]: Play Video
+                    - img "video preview" [ref=e1080]
+                    - link "Play Video" [ref=e1081] [cursor=pointer]:
+                      - /url: https://itsdispatch.ca/wp-content/uploads/woocommerce_uploads/2026/06/ITS_Dispatch_Collections_SALES_Narrated-lbb60v.mp4
+                      - generic [ref=e1083]: Play Video
+                  - heading "Unpaid Freight Bill Collections" [level=2] [ref=e1087]
+                  - button "Purchase Now" [ref=e1091] [cursor=pointer]
+                - generic [ref=e1094]:
+                  - generic [ref=e1096]:
+                    - link "Play Video" [ref=e1097] [cursor=pointer]:
+                      - /url: https://itsdispatch.ca/wp-content/uploads/woocommerce_uploads/2026/06/ITS_Trucking_Company_Sales_Video-aerysk.mp4
+                      - generic [ref=e1098]: Play Video
+                    - img "video preview" [ref=e1099]
+                    - link "Play Video" [ref=e1100] [cursor=pointer]:
+                      - /url: https://itsdispatch.ca/wp-content/uploads/woocommerce_uploads/2026/06/ITS_Trucking_Company_Sales_Video-aerysk.mp4
+                      - generic [ref=e1102]: Play Video
+                  - heading "Start Your Trucking Company" [level=2] [ref=e1106]
+                  - button "Purchase Now" [ref=e1110] [cursor=pointer]
+                - generic [ref=e1113]:
+                  - heading "Accident File Cover Sheet" [level=2] [ref=e1120]
+                  - button "Purchase Now" [ref=e1124] [cursor=pointer]
+                - generic [ref=e1127]:
+                  - heading "Damage Full & Final Release Agreement" [level=2] [ref=e1134]
+                  - button "Purchase Now" [ref=e1138] [cursor=pointer]
+                - generic [ref=e1141]:
+                  - heading "Truck Incident Reporting Form" [level=2] [ref=e1148]
+                  - button "Purchase Now" [ref=e1152] [cursor=pointer]
+                - generic [ref=e1155]:
+                  - heading "Passenger Authorization Form" [level=2] [ref=e1162]
+                  - button "Purchase Now" [ref=e1166] [cursor=pointer]
+                - generic [ref=e1169]:
+                  - heading "Truck Driver Pet Damage Agreement" [level=2] [ref=e1176]
+                  - button "Purchase Now" [ref=e1180] [cursor=pointer]
+                - generic [ref=e1183]:
+                  - heading "Unlawful Pay Deductions Guide" [level=2] [ref=e1190]
+                  - button "Purchase Now" [ref=e1194] [cursor=pointer]
+          - generic [ref=e1209]:
+            - generic [ref=e1212]:
+              - heading "Free Professional Resume for All Students." [level=1] [ref=e1214]:
+                - emphasis [ref=e1215]:
+                  - strong [ref=e1216]: Free
+                - text: Professional Resume for All Students.
+              - button "Connect us over Whatsapp" [ref=e1223] [cursor=pointer]:
+                - generic [ref=e1224]:
+                  - generic [ref=e1225]: C
+                  - generic [ref=e1226]: o
+                  - generic [ref=e1227]: "n"
+                  - generic [ref=e1228]: "n"
+                  - generic [ref=e1229]: e
+                  - generic [ref=e1230]: c
+                  - generic [ref=e1231]: t
+                  - generic [ref=e1232]: u
+                  - generic [ref=e1233]: s
+                  - generic [ref=e1234]: o
+                  - generic [ref=e1235]: v
+                  - generic [ref=e1236]: e
+                  - generic [ref=e1237]: r
+                  - generic [ref=e1238]: W
+                  - generic [ref=e1239]: h
+                  - generic [ref=e1240]: a
+                  - generic [ref=e1241]: t
+                  - generic [ref=e1242]: s
+                  - generic [ref=e1243]: a
+                  - generic [ref=e1244]: p
+                  - generic [ref=e1245]: p
+            - generic [ref=e1248]:
+              - paragraph [ref=e1250]:
+                - generic [ref=e1252]: Elevate
+                - generic [ref=e1254]: Your
+                - generic [ref=e1256]: Profile
+                - generic [ref=e1258]: with
+                - generic [ref=e1260]: Our
+                - generic [ref=e1262]: Professional
+                - generic [ref=e1264]: Industry-Standard
+                - generic [ref=e1266]: Resumes
+                - generic [ref=e1268]: –
+                - generic [ref=e1270]: Now
+                - generic [ref=e1272]: Available
+                - generic [ref=e1274]: Free
+                - generic [ref=e1276]: for
+                - generic [ref=e1278]: New
+                - generic [ref=e1280]: Students!
+                - generic [ref=e1282]: Start
+                - generic [ref=e1284]: Your
+                - generic [ref=e1286]: Journey
+                - generic [ref=e1288]: to
+                - generic [ref=e1290]: Success
+                - generic [ref=e1292]: Today."
+              - list [ref=e1294]:
+                - listitem [ref=e1295]:
+                  - generic [ref=e1296]: 
+                  - text: Industry-Standard Formatting
+                - listitem [ref=e1297]:
+                  - generic [ref=e1298]: 
+                  - text: Strategic Content Placement
+                - listitem [ref=e1299]:
+                  - generic [ref=e1300]: 
+                  - text: Keyword Optimization
+                - listitem [ref=e1301]:
+                  - generic [ref=e1302]: 
+                  - text: Professional Layout
+                - listitem [ref=e1303]:
+                  - generic [ref=e1304]: 
+                  - text: Customized for Individual Strengths
+                - listitem [ref=e1305]:
+                  - generic [ref=e1306]: 
+                  - text: Maximize Interview Calls
+                - listitem [ref=e1307]:
+                  - generic [ref=e1308]: 
+                  - text: Stay Updated with Industry Trends
+          - generic [ref=e1329]:
+            - generic [ref=e1338]:
+              - heading "” Hear What Our Graduates Have to Say about ITS Dispatch Academy!”" [level=2] [ref=e1339]
+              - heading [level=2] [ref=e1340]
+            - region "Testimonials" [ref=e1344]:
+              - generic [ref=e1347]:
+                - group [ref=e1348]:
+                  - generic [ref=e1349]: “
+                  - paragraph [ref=e1350]: Freight brokerage course at ITS Dispatch Academy was very good. I learned how to manage loads and talk to shippers. After the course, they helped me with finding a job. Now I am working as a broker. Thank you!
+                  - generic [ref=e1351]: Simran Kaur
+                  - generic [ref=e1352]: Canada
+                - group [ref=e1353]:
+                  - generic [ref=e1354]: “
+                  - paragraph [ref=e1355]: Thanks to ITS Dispatch Academy, I am now working in my dream job as a freight broker. I cannot thank them enough for their support and guidance throughout my journey.
+                  - generic [ref=e1356]: Preet Rooprai
+                  - generic [ref=e1357]: Canada
+                - group [ref=e1358]:
+                  - generic [ref=e1359]: “
+                  - paragraph [ref=e1360]: The dispatch training was great. I didn’t know much before, but the trainers explained everything step by step. After finishing the course, I quickly got a job with their help. ITS Dispatch Academy really cares about their students.
+                  - generic [ref=e1361]: Kulwinder Singh
+                  - generic [ref=e1362]: India
+                - group [ref=e1363]:
+                  - generic [ref=e1364]: “
+                  - paragraph [ref=e1365]: I took the dispatch training course and learned a lot. The best part is, they helped me find a good job after the course. The training was easy to follow, and the staff was very friendly.
+                  - generic [ref=e1366]: Paramjit Kaur
+                  - generic [ref=e1367]: Canada
+                - group [ref=e1368]:
+                  - generic [ref=e1369]: “
+                  - paragraph [ref=e1370]: ITS Dispatch Academy helped me understand how to do dispatching and brokerage. The training was clear and simple. After I finished, they helped me with job placement, and now I am working. I am very happy with their support.
+                  - generic [ref=e1371]: Jaspal Dhillon
+                  - generic [ref=e1372]: Canada
+                - group [ref=e1373]:
+                  - generic [ref=e1374]: “
+                  - paragraph [ref=e1375]: I joined the dispatch course, and now I have a job as a dispatcher. The trainers made everything clear, and the academy helped me with job placement after I finished. Very good place to learn dispatching.
+                  - generic [ref=e1376]: Karamjit Kaur
+                  - generic [ref=e1377]: Canada
+                - group [ref=e1378]:
+                  - generic [ref=e1379]: “
+                  - paragraph [ref=e1380]: The freight brokerage course at ITS Dispatch Academy was really helpful. I now know how to handle freight and work with truck drivers. They also helped me get my first job after training. I’m very thankful to them.
+                  - generic [ref=e1381]: Rani Kaur
+                  - generic [ref=e1382]: Canada
+                - group [ref=e1383]:
+                  - generic [ref=e1384]: “
+                  - paragraph [ref=e1385]: ITS Dispatch Academy made it easy for me to understand dispatching. The trainers explained in simple words, and the training was very good. They even helped me find a job after I finished the course. I am happy I joined.
+                  - generic [ref=e1386]: Gurpreet Dhaliwal
+                  - generic [ref=e1387]: India
+                - group [ref=e1388]:
+                  - generic [ref=e1389]: “
+                  - paragraph [ref=e1390]: It was a life-changing experience for me. The course was easy to follow, and the job placement assistance provided by the academy was top-notch.All thanks to ITS Dispatch Academy.
+                  - generic [ref=e1391]: Arman Mahajan
+                  - generic [ref=e1392]: Canada
+                - group [ref=e1393]:
+                  - generic [ref=e1394]: “
+                  - paragraph [ref=e1395]: I am extremely satisfied with my experience at ITS Dispatch Academy. The courses are designed to provide in-depth knowledge and practical skills in dispatching and freight brokerage.
+                  - generic [ref=e1396]: Kamaljeet Kaur
+                  - generic [ref=e1397]: Canada
+                - group [ref=e1398]:
+                  - generic [ref=e1399]: “
+                  - paragraph [ref=e1400]: I joined ITS Dispatch Academy for the dispatch course, and I’m very happy with what I learned. The teachers made everything easy to understand. After I finished, they helped me find a good job. Thank you so much for the support!
+                  - generic [ref=e1401]: Navdeep Kaur
+                  - generic [ref=e1402]: Canada
+                - group [ref=e1403]:
+                  - generic [ref=e1404]: “
+                  - paragraph [ref=e1405]: ITS Dispatch Academy helped me learn dispatching and get a job in the trucking industry. The training was very clear, and they gave a lot of support. I would recommend this course to anyone who wants to start working in this field.
+                  - generic [ref=e1406]: Ravinder Singh
+                  - generic [ref=e1407]: Canada
+                - group [ref=e1408]:
+                  - generic [ref=e1409]: “
+                  - paragraph [ref=e1410]: I completed the dispatch course at ITS Dispatch Academy, and it was a great experience. The teachers were really helpful, and they made sure I understood everything. After finishing, I got a job with their help. It was a great decision to join.
+                  - generic [ref=e1411]: Manjit Kaur
+                  - generic [ref=e1412]: Canada
+          - generic [ref=e1433]:
+            - generic [ref=e1440]:
+              - heading "Our Business Hours!" [level=3] [ref=e1447]:
+                - strong [ref=e1448]:
+                  - emphasis [ref=e1449]: Our Business Hours!
+              - paragraph [ref=e1452]: "Address: Unit 4 – 5484 Tomken Rd, Mississauga, ON, L4W 2Z6"
+              - generic [ref=e1455]:
+                - generic [ref=e1456]: M
+                - generic [ref=e1457]: o
+                - generic [ref=e1458]: "n"
+                - generic [ref=e1459]: "-"
+                - generic [ref=e1460]: F
+                - generic [ref=e1461]: r
+                - generic [ref=e1462]: i
+                - generic [ref=e1463]: ":"
+                - generic [ref=e1464]: "1"
+                - generic [ref=e1465]: "0"
+                - generic [ref=e1466]: ":"
+                - generic [ref=e1467]: "0"
+                - generic [ref=e1468]: "0"
+                - generic [ref=e1469]: a
+                - generic [ref=e1470]: m
+                - generic [ref=e1471]: "-"
+                - generic [ref=e1472]: "0"
+                - generic [ref=e1473]: "6"
+                - generic [ref=e1474]: ":"
+                - generic [ref=e1475]: "0"
+                - generic [ref=e1476]: "0"
+                - generic [ref=e1477]: p
+                - generic [ref=e1478]: m
+              - generic [ref=e1482]:
+                - generic [ref=e1483]: S
+                - generic [ref=e1484]: a
+                - generic [ref=e1485]: t
+                - generic [ref=e1486]: "-"
+                - generic [ref=e1487]: S
+                - generic [ref=e1488]: u
+                - generic [ref=e1489]: "n"
+                - generic [ref=e1490]: ":"
+                - generic [ref=e1491]: "1"
+                - generic [ref=e1492]: "1"
+                - generic [ref=e1493]: ":"
+                - generic [ref=e1494]: "0"
+                - generic [ref=e1495]: "0"
+                - generic [ref=e1496]: a
+                - generic [ref=e1497]: m
+                - generic [ref=e1498]: "-"
+                - generic [ref=e1499]: "0"
+                - generic [ref=e1500]: "5"
+                - generic [ref=e1501]: ":"
+                - generic [ref=e1502]: "0"
+                - generic [ref=e1503]: "0"
+                - generic [ref=e1504]: p
+                - generic [ref=e1505]: m
+            - generic [ref=e1513]:
+              - heading "Visit Us We’d Love to Meet You!" [level=3] [ref=e1520]:
+                - strong [ref=e1521]:
+                  - emphasis [ref=e1522]:
+                    - text: Visit Us We’d Love
+                    - text: to Meet You!
+              - paragraph [ref=e1528]:
+                - text: Appointments Only Open 7 days a week.
+                - button "Please call to schedule an appointment:" [ref=e1530] [cursor=pointer]
+              - heading "437-463-5865" [level=1] [ref=e1532]:
+                - emphasis [ref=e1533]: 437-463-5865
+          - generic [ref=e1559]:
+            - heading "From Student" [level=1] [ref=e1568]
+            - heading "To Success" [level=1] [ref=e1577]
+            - region "Carousel" [ref=e1580]
+          - generic [ref=e1661]:
+            - heading "Watch More on Instagram!" [level=5] [ref=e1663]
+            - heading "Explore Success Stories, Placement Updates & Student Reviews." [level=2] [ref=e1664]
+            - button "Visit Our Instagram Page " [ref=e1667] [cursor=pointer]:
+              - generic [ref=e1668]: Visit Our Instagram Page
+              - generic [ref=e1669]: 
+          - heading "Frequently asked questions (FAQs)" [level=1] [ref=e1687]
+          - generic [ref=e1688]:
+            - img [ref=e1693]
+            - generic [ref=e1699]:
+              - generic [ref=e1700]:
+                - heading "What factors contribute to the high success rate of job placements at your academy?" [level=3] [ref=e1701]:
+                  - button "What factors contribute to the high success rate of job placements at your academy?" [expanded] [ref=e1702] [cursor=pointer]
+                - region "What factors contribute to the high success rate of job placements at your academy?" [ref=e1703]:
+                  - paragraph [ref=e1706]: Our job placement services are supported by Essence Transportation Inc, a key player in the transportation industry. Upon finishing their courses, we share the resumes of students with our network of 986 transportation and freight brokerage companies spanning North America.
+              - generic [ref=e1707]:
+                - heading "How does your academy have such a high success rate for Job placements ?" [level=3] [ref=e1708]:
+                  - button "How does your academy have such a high success rate for Job placements ?" [ref=e1709] [cursor=pointer]
+                - region "How does your academy have such a high success rate for Job placements ?":
+                  - generic:
+                    - generic:
+                      - paragraph: We use our resources through our transportation company ( Essence Transportation ) to get you through the trucking industry network. This helps you to land highly paying and remarkable office job in North America.
+              - generic [ref=e1710]:
+                - heading "Do these positions also contribute to the process of obtaining Permanent Residency through Canadian Immigration?" [level=3] [ref=e1711]:
+                  - button "Do these positions also contribute to the process of obtaining Permanent Residency through Canadian Immigration?" [ref=e1712] [cursor=pointer]
+                - region "Do these positions also contribute to the process of obtaining Permanent Residency through Canadian Immigration?":
+                  - generic:
+                    - generic:
+                      - paragraph: Certainly, numerous job titles align with the National Occupational Classification (NOC) – B criteria, providing additional support along the immigration pathway. Many of our students have successfully obtained well-paying jobs while simultaneously addressing their immigration concerns
+              - generic [ref=e1713]:
+                - heading "Do you charge for all the jobs that we see on your social media ?" [level=3] [ref=e1714]:
+                  - button "Do you charge for all the jobs that we see on your social media ?" [ref=e1715] [cursor=pointer]
+                - region "Do you charge for all the jobs that we see on your social media ?":
+                  - generic:
+                    - generic:
+                      - paragraph: I.T.S. Dispatch Academy is dedicated to maintaining transparency and fairness for its students. Every job featured on our social media platforms is obtained through the compulsory distribution of resumes for each student upon completing the course.
+              - generic [ref=e1716]:
+                - heading "Can individuals without prior experience also land employment through the courses offered by I.T.S. Dispatch Academy?" [level=3] [ref=e1717]:
+                  - button "Can individuals without prior experience also land employment through the courses offered by I.T.S. Dispatch Academy?" [ref=e1718] [cursor=pointer]
+                - region "Can individuals without prior experience also land employment through the courses offered by I.T.S. Dispatch Academy?":
+                  - generic:
+                    - generic:
+                      - paragraph: Yes Certainly! All the job opportunities showcased on our social media platforms are obtained by students without any previous experience. Moreover, we consistently post job openings for newcomers who are aspiring to enter the field of transportation through our programs.
+              - generic [ref=e1719]:
+                - heading "Are there specific educational or minimum requirements for individuals seeking to enter the Dispatching or Brokerage field?" [level=3] [ref=e1720]:
+                  - button "Are there specific educational or minimum requirements for individuals seeking to enter the Dispatching or Brokerage field?" [ref=e1721] [cursor=pointer]
+                - region "Are there specific educational or minimum requirements for individuals seeking to enter the Dispatching or Brokerage field?":
+                  - generic:
+                    - generic:
+                      - paragraph: No! You don’t need any special requirements to get into this field. Our courses teach you everything you need to know about transportation, helping you find a job without any prior experience or qualifications.
+      - contentinfo [ref=e1725]:
+        - generic [ref=e1734]:
+          - generic [ref=e1738]:
+            - heading "Navigate the Future of Dispatch with Confidence" [level=2] [ref=e1743]:
+              - generic [ref=e1745]: Navigate
+              - generic [ref=e1747]: the
+              - generic [ref=e1749]: Future
+              - generic [ref=e1751]: of
+              - generic [ref=e1753]: Dispatch
+              - generic [ref=e1755]: with
+              - generic [ref=e1757]: Confidence
+            - generic [ref=e1760]:
+              - heading "Connect" [level=5] [ref=e1762]
+              - generic [ref=e1764]:
+                - link [ref=e1765] [cursor=pointer]:
+                  - /url: https://www.instagram.com/itsdispatch.ca/
+                - generic [ref=e1766]: 
+              - generic [ref=e1768]:
+                - link [ref=e1769] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@itsdispatchacademy
+                - generic [ref=e1770]: 
+              - generic [ref=e1772]:
+                - link [ref=e1773] [cursor=pointer]:
+                  - /url: https://www.facebook.com/profile.php?id=61556945432794
+                - generic [ref=e1774]: 
+              - generic [ref=e1776]:
+                - link [ref=e1777] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@itsdispatch.ca?_t=8jc7GoR5u1V&_r=1
+                - generic [ref=e1778]: 
+            - generic [ref=e1783]:
+              - heading "Contact Us" [level=5] [ref=e1785]
+              - 'heading "🇨🇦: +1 (437)-463-5865" [level=4] [ref=e1787]':
+                - text: "🇨🇦:"
+                - link "+1 (437)-463-5865" [ref=e1788] [cursor=pointer]:
+                  - /url: tel:+14374635865
+              - paragraph [ref=e1790]:
+                - text: "🇺🇸:"
+                - link "+1 (415)- 738-3805" [ref=e1791] [cursor=pointer]:
+                  - /url: tel:+14157383805
+              - paragraph [ref=e1793]:
+                - text: "🇮🇳:"
+                - link "(0796) 509-2246" [ref=e1794] [cursor=pointer]:
+                  - /url: tel:07965092246
+                - link:
+                  - /url: tel:0806-529-4488
+              - heading "registration@itsdispatch.ca" [level=4] [ref=e1796]:
+                - button "registration@itsdispatch.ca" [ref=e1798] [cursor=pointer]
+              - heading "Unit 4 - 5484 Tomken Rd, Mississauga, ON L4W 2Z6" [level=4] [ref=e1800]:
+                - button "Unit 4 - 5484 Tomken Rd, Mississauga, ON L4W 2Z6" [ref=e1802] [cursor=pointer]
+          - generic [ref=e1806]:
+            - heading "Start your Journey" [level=6] [ref=e1811]:
+              - button "Start your Journey" [ref=e1813] [cursor=pointer]:
+                - generic [ref=e1814]:
+                  - generic [ref=e1815]: S
+                  - generic [ref=e1816]: t
+                  - generic [ref=e1817]: a
+                  - generic [ref=e1818]: r
+                  - generic [ref=e1819]: t
+                  - generic [ref=e1820]: "y"
+                  - generic [ref=e1821]: o
+                  - generic [ref=e1822]: u
+                  - generic [ref=e1823]: r
+                  - generic [ref=e1824]: J
+                  - generic [ref=e1825]: o
+                  - generic [ref=e1826]: u
+                  - generic [ref=e1827]: r
+                  - generic [ref=e1828]: "n"
+                  - generic [ref=e1829]: e
+                  - generic [ref=e1830]: "y"
+            - paragraph [ref=e1835]:
+              - text: © 2026. All Right Reserved
+              - link "ITS Dispatch Academy" [ref=e1836] [cursor=pointer]:
+                - /url: https://itsdispatch.ca/
+              - text: .
+            - paragraph [ref=e1841]:
+              - link "Privacy Policy" [ref=e1842] [cursor=pointer]:
+                - /url: https://itsdispatch.ca/privacy-policy/
+              - link "Terms & Conditions" [ref=e1843] [cursor=pointer]:
+                - /url: https://itsdispatch.ca/terms-conditions/
+              - link "Enrolment Contract" [ref=e1844] [cursor=pointer]:
+                - /url: https://itsdispatch.ca/enrolment-contract/
+  - complementary "Close":
+    - link "Close Menu":
+      - /url: "#"
+      - generic [ref=e1845] [cursor=pointer]: Close Menu
+  - iframe [ref=e1847]:
+    - generic [active] [ref=f1e1]:
+      - generic:
+        - link "Powered by respond.io":
+          - /url: https://respond.io

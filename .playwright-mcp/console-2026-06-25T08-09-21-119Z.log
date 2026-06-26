@@ -1,0 +1,1109 @@
+[     256ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:21548
+[   68310ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68313ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68322ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68328ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68331ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68333ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68337ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68340ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68342ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68343ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68344ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68347ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68348ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68351ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68352ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68353ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68355ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68357ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68359ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68360ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68371ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68379ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68393ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68395ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68396ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68398ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68399ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68399ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68401ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68402ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68405ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68405ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68406ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68408ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68409ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68410ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68411ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68412ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68413ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68413ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68415ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68415ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68417ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68419ms] ReferenceError: useInView is not defined
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:111:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   68424ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:140:27)
+    at div
+    at section
+    at Hero
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68424ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at CategorySection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68424ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:140:27)
+    at div
+    at section
+    at CategorySection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68424ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at CourseGrid
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68425ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:140:27)
+    at div
+    at section
+    at CourseGrid
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68425ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at CourseGrid
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68425ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at Testimonials
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68425ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:140:27)
+    at div
+    at section
+    at Testimonials
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68425ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at FeatureSplit
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68426ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:140:27)
+    at div
+    at section
+    at FeatureSplit
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68426ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at MediaSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68426ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at BootcampSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68426ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:140:27)
+    at div
+    at section
+    at BootcampSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68426ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at MentorSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68427ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:140:27)
+    at div
+    at section
+    at MentorSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68427ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at MentorSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68427ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at FAQSection (http://localhost:5173/src/sections/FAQSection.jsx?t=1782375028909:111:33)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68427ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at FAQSection (http://localhost:5173/src/sections/FAQSection.jsx?t=1782375028909:111:33)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68427ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at BlogSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68428ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:140:27)
+    at div
+    at section
+    at BlogSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68428ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at div
+    at section
+    at FinalCTA
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68428ms] [ERROR] The above error occurred in the <Reveal> component:
+
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375028909:101:3)
+    at footer
+    at Footer
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   68431ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375028909:143:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
+[   84526ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84530ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84543ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84543ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84547ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84556ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84559ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84573ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84578ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84594ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84596ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84600ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84603ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84606ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84612ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84613ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84624ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84630ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[   84634ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at section
+    at Hero
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84635ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at section
+    at CategorySection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84635ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at section
+    at CourseGrid
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84636ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at section
+    at Testimonials
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84636ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at section
+    at FeatureSplit
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84637ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at section
+    at BootcampSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84637ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at section
+    at MentorSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84637ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at section
+    at BlogSection
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84637ms] [ERROR] The above error occurred in the <Stagger> component:
+
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:139:27)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:943:40)
+    at Reveal (http://localhost:5173/src/components/motion.jsx?t=1782375045140:101:3)
+    at div
+    at section
+    at FinalCTA
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[   84639ms] ReferenceError: useInView is not defined
+    at Stagger (http://localhost:5173/src/components/motion.jsx?t=1782375045140:142:18)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)

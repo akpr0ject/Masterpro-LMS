@@ -1,0 +1,442 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "iDemy" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e8]
+        - text: iDemy
+      - navigation [ref=e11]:
+        - link "Home" [ref=e12] [cursor=pointer]:
+          - /url: "#"
+        - link "Courses" [ref=e13] [cursor=pointer]:
+          - /url: "#"
+        - link "Blog" [ref=e14] [cursor=pointer]:
+          - /url: "#"
+        - link "Contact" [ref=e15] [cursor=pointer]:
+          - /url: "#"
+        - link "Pages" [ref=e16] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e17]:
+        - link "Login" [ref=e18] [cursor=pointer]:
+          - /url: "#"
+        - button "Join Now" [ref=e19] [cursor=pointer]
+  - main [ref=e20]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]: Online course start
+          - heading "Find Suitable Courses From The Best 🎓 › Mentors" [level=1] [ref=e27]:
+            - text: Find Suitable Courses From The Best
+            - generic [ref=e28]: 🎓
+            - text: › Mentors
+          - paragraph [ref=e29]: Discover the perfect courses tailored for you, taught by top mentors. Enhance your skills and knowledge to gain a few clicks today.
+          - generic [ref=e30]:
+            - button "Get Started" [ref=e31] [cursor=pointer]
+            - button "Watch Video" [ref=e32] [cursor=pointer]:
+              - img [ref=e34]
+              - text: Watch Video
+        - generic [ref=e37]:
+          - generic [ref=e42]:
+            - paragraph [ref=e43]: UI Design Pattern
+            - generic [ref=e45]:
+              - paragraph [ref=e46]: Esther Howard
+              - paragraph [ref=e47]: Mentor
+          - generic [ref=e48]:
+            - img [ref=e50]
+            - generic [ref=e52]:
+              - paragraph [ref=e53]: "4.9"
+              - paragraph [ref=e54]: Top Rating
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - img [ref=e58]
+          - text: Design
+        - generic [ref=e61]:
+          - img [ref=e63]
+          - text: Graphic
+        - generic [ref=e66]:
+          - img [ref=e68]
+          - text: Graphers
+        - generic [ref=e71]:
+          - img [ref=e73]
+          - text: Artistry
+        - generic [ref=e76]:
+          - img [ref=e78]
+          - text: Emblem
+    - generic [ref=e82]:
+      - heading "Explore Our Courses Category" [level=2] [ref=e83]
+      - generic [ref=e84]:
+        - link "IT & Software" [ref=e85] [cursor=pointer]:
+          - /url: "#"
+          - heading "IT & Software" [level=3] [ref=e87]
+        - link "Digital Marketing" [ref=e88] [cursor=pointer]:
+          - /url: "#"
+          - heading "Digital Marketing" [level=3] [ref=e90]
+        - link "Product Design" [ref=e91] [cursor=pointer]:
+          - /url: "#"
+          - heading "Product Design" [level=3] [ref=e93]
+        - link "Graphic Design" [ref=e94] [cursor=pointer]:
+          - /url: "#"
+          - heading "Graphic Design" [level=3] [ref=e96]
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - heading "Check Out Our Cool Courses!" [level=2] [ref=e100]
+        - button "View All Courses" [ref=e101] [cursor=pointer]
+      - generic [ref=e102]:
+        - article [ref=e103]:
+          - generic [ref=e106]: Best Seller
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - generic [ref=e109]:
+                - img [ref=e110]
+                - text: 16 Lessons
+              - generic [ref=e113]:
+                - img [ref=e114]
+                - text: 120 Students
+            - heading "Graphic Design class" [level=3] [ref=e118]
+            - paragraph [ref=e119]: Master essential design tools and how to create a coherent visual language for your brand.
+            - generic [ref=e120]:
+              - generic [ref=e121]: $450.00
+              - generic [ref=e122]: $600.00
+            - button "Purchase Course" [ref=e124] [cursor=pointer]:
+              - text: Purchase Course
+              - img [ref=e125]
+        - article [ref=e127]:
+          - generic [ref=e130]: Best Seller
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - generic [ref=e133]:
+                - img [ref=e134]
+                - text: 16 Lessons
+              - generic [ref=e137]:
+                - img [ref=e138]
+                - text: 120 Students
+            - heading "UI/UX Design" [level=3] [ref=e142]
+            - paragraph [ref=e143]: The future of interactive data is changing user-friendly, visually appealing UI/UX designs.
+            - generic [ref=e144]:
+              - generic [ref=e145]: $750.00
+              - generic [ref=e146]: $900.00
+            - button "Purchase Course" [ref=e148] [cursor=pointer]:
+              - text: Purchase Course
+              - img [ref=e149]
+        - article [ref=e151]:
+          - generic [ref=e154]: Best Seller
+          - generic [ref=e155]:
+            - generic [ref=e156]:
+              - generic [ref=e157]:
+                - img [ref=e158]
+                - text: 16 Lessons
+              - generic [ref=e161]:
+                - img [ref=e162]
+                - text: 120 Students
+            - heading "Web Development" [level=3] [ref=e166]
+            - paragraph [ref=e167]: Coding education, structured & deliverance exceptional, our keywords are exclusive trends.
+            - generic [ref=e168]:
+              - generic [ref=e169]: $350.00
+              - generic [ref=e170]: $500.00
+            - button "Purchase Course" [ref=e172] [cursor=pointer]:
+              - text: Purchase Course
+              - img [ref=e173]
+        - article [ref=e175]:
+          - generic [ref=e178]: Best Seller
+          - generic [ref=e179]:
+            - generic [ref=e180]:
+              - generic [ref=e181]:
+                - img [ref=e182]
+                - text: 16 Lessons
+              - generic [ref=e185]:
+                - img [ref=e186]
+                - text: 120 Students
+            - heading "Data Science and AI" [level=3] [ref=e190]
+            - paragraph [ref=e191]: General education over 8 distributed in every era and complex platforms.
+            - generic [ref=e192]:
+              - generic [ref=e193]: $230.00
+              - generic [ref=e194]: $400.00
+            - button "Purchase Course" [ref=e196] [cursor=pointer]:
+              - text: Purchase Course
+              - img [ref=e197]
+        - article [ref=e199]:
+          - generic [ref=e202]: Best Seller
+          - generic [ref=e203]:
+            - generic [ref=e204]:
+              - generic [ref=e205]:
+                - img [ref=e206]
+                - text: 16 Lessons
+              - generic [ref=e209]:
+                - img [ref=e210]
+                - text: 120 Students
+            - heading "Cloud Computing" [level=3] [ref=e214]
+            - paragraph [ref=e215]: Decentralized computing example a solid scalable, efficient and reliable solution.
+            - generic [ref=e216]:
+              - generic [ref=e217]: $800.00
+              - generic [ref=e218]: $950.00
+            - button "Purchase Course" [ref=e220] [cursor=pointer]:
+              - text: Purchase Course
+              - img [ref=e221]
+        - article [ref=e223]:
+          - generic [ref=e226]: Best Seller
+          - generic [ref=e227]:
+            - generic [ref=e228]:
+              - generic [ref=e229]:
+                - img [ref=e230]
+                - text: 16 Lessons
+              - generic [ref=e233]:
+                - img [ref=e234]
+                - text: 120 Students
+            - heading "Mobile App Development" [level=3] [ref=e238]
+            - paragraph [ref=e239]: Update skills to create fluidic markets transform briefs and build for iOS and Android.
+            - generic [ref=e240]:
+              - generic [ref=e241]: $400.00
+              - generic [ref=e242]: $650.00
+            - button "Purchase Course" [ref=e244] [cursor=pointer]:
+              - text: Purchase Course
+              - img [ref=e245]
+      - button "View All Courses" [ref=e248] [cursor=pointer]
+    - generic [ref=e250]:
+      - heading "Trusted By Our Successful Students" [level=2] [ref=e251]
+      - generic [ref=e252]:
+        - article [ref=e253]:
+          - generic [ref=e254]:
+            - img [ref=e255]
+            - img [ref=e257]
+            - img [ref=e259]
+            - img [ref=e261]
+            - img [ref=e263]
+          - paragraph [ref=e265]: “Taking the online Graphic Design course was a game-changer for me. The instructors were incredible knowledge and the flexible structure helped me apply skills I learned. I now feel confident in my design skills and can’t wait to create my next project.”
+          - generic [ref=e267]:
+            - paragraph [ref=e268]: Carly Maguire
+            - paragraph [ref=e269]: Graphic Designer
+        - article [ref=e270]:
+          - generic [ref=e271]:
+            - img [ref=e272]
+            - img [ref=e274]
+            - img [ref=e276]
+            - img [ref=e278]
+            - img [ref=e280]
+          - paragraph [ref=e282]: “This one was a game, changed! The content was practical and the flexibility fit perfectly into my busy schedule. I gained skills that helped to advance my career and the support was outstanding!”
+          - generic [ref=e284]:
+            - paragraph [ref=e285]: Carly Maguire
+            - paragraph [ref=e286]: Graphic Designer
+        - article [ref=e287]:
+          - generic [ref=e288]:
+            - img [ref=e289]
+            - img [ref=e291]
+            - img [ref=e293]
+            - img [ref=e295]
+            - img [ref=e297]
+          - paragraph [ref=e299]: “The online editions are an incredibly smart solution. The instructors had real-world experience and the resources and improve my craft. The platform was easy to use and I’d the support kept me on track.”
+          - generic [ref=e301]:
+            - paragraph [ref=e302]: Carly Maguire
+            - paragraph [ref=e303]: Graphic Designer
+    - generic [ref=e305]:
+      - generic [ref=e307]:
+        - paragraph [ref=e308]: 50%
+        - paragraph [ref=e309]: Free Course valid
+      - generic [ref=e311]:
+        - heading "Empower Your Learning Journey" [level=2] [ref=e312]:
+          - text: Empower Your
+          - text: Learning Journey
+        - paragraph [ref=e313]: Explore tailored courses from expert mentors designed to boost your skills and knowledge with just a few clicks.
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - paragraph [ref=e316]: 40M+
+            - paragraph [ref=e317]: Students who have joined and grown with us
+          - generic [ref=e318]:
+            - paragraph [ref=e319]: 50M+
+            - paragraph [ref=e320]: Enrolled learners across every category
+        - generic [ref=e321]:
+          - button "Get Started" [ref=e322] [cursor=pointer]
+          - button "Contact Us" [ref=e323] [cursor=pointer]
+    - button "Play video" [ref=e328] [cursor=pointer]:
+      - img [ref=e329]
+    - generic [ref=e332]:
+      - generic [ref=e333]:
+        - heading "Best Bootcamp Choices Right Here!" [level=2] [ref=e334]
+        - button "All Bootcamp" [ref=e335] [cursor=pointer]
+      - generic [ref=e336]:
+        - article [ref=e337]:
+          - generic [ref=e339]:
+            - text: Web Development
+            - heading "Best Bootcamp Picks" [level=3] [ref=e340]
+            - paragraph [ref=e341]: By John Marcus Bell
+            - button "Join Program" [ref=e343] [cursor=pointer]
+        - article [ref=e344]:
+          - generic [ref=e346]:
+            - text: Web Development
+            - heading "Top Training Bootcamps" [level=3] [ref=e347]
+            - paragraph [ref=e348]: By John Marcus Bell
+            - button "Join Program" [ref=e350] [cursor=pointer]
+        - article [ref=e351]:
+          - generic [ref=e353]:
+            - text: UI/UX Design
+            - heading "Best Learning Bootcamps" [level=3] [ref=e354]
+            - paragraph [ref=e355]: By John Marcus Bell
+            - button "Join Program" [ref=e357] [cursor=pointer]
+    - generic [ref=e359]:
+      - heading "Discover Your Learning Journey Guide." [level=2] [ref=e361]
+      - generic [ref=e362]:
+        - article [ref=e363]:
+          - generic [ref=e365]:
+            - heading "Tina B. Meyer" [level=3] [ref=e366]
+            - paragraph [ref=e367]: UI/UX Designer
+        - article [ref=e368]:
+          - generic [ref=e370]:
+            - heading "Arthur Rahman" [level=3] [ref=e371]
+            - paragraph [ref=e372]: Senior Designer
+        - article [ref=e373]:
+          - generic [ref=e375]:
+            - heading "Hannah Newton-Riddle" [level=3] [ref=e376]
+            - paragraph [ref=e377]: Web Developer
+        - article [ref=e378]:
+          - generic [ref=e380]:
+            - heading "Rambogianran Sofiel" [level=3] [ref=e381]
+            - paragraph [ref=e382]: Data Scientist
+      - paragraph [ref=e383]: Join our learning community and gain access to a team of dedicated mentors who are committed to helping you succeed.
+      - button "Meet All Instructors" [ref=e385] [cursor=pointer]
+    - generic [ref=e387]:
+      - generic [ref=e388]:
+        - heading "Frequently Asked Questions" [level=2] [ref=e389]:
+          - text: Frequently
+          - text: Asked Questions
+        - paragraph [ref=e390]: Find quick answers to the most common questions about our courses, enrollment and learning experience.
+        - button "Ask Question" [ref=e392] [cursor=pointer]
+      - generic [ref=e393]:
+        - generic [ref=e394]:
+          - button "Who Is This Course Designed For?" [ref=e395] [cursor=pointer]:
+            - generic [ref=e396]: Who Is This Course Designed For?
+            - img [ref=e398]
+          - paragraph [ref=e399]: This course is designed for beginners and professionals alike who want to build practical, real-world skills at their own pace.
+        - button "What Will I Learn From This Course?" [ref=e401] [cursor=pointer]:
+          - generic [ref=e402]: What Will I Learn From This Course?
+          - img [ref=e404]
+        - button "What Is This Course About?" [ref=e407] [cursor=pointer]:
+          - generic [ref=e408]: What Is This Course About?
+          - img [ref=e410]
+        - button "When Does The Course Start And End?" [ref=e413] [cursor=pointer]:
+          - generic [ref=e414]: When Does The Course Start And End?
+          - img [ref=e416]
+        - button "Is There A Deadline For Enrollment?" [ref=e419] [cursor=pointer]:
+          - generic [ref=e420]: Is There A Deadline For Enrollment?
+          - img [ref=e422]
+        - button "How Much Does The Course Cost?" [ref=e425] [cursor=pointer]:
+          - generic [ref=e426]: How Much Does The Course Cost?
+          - img [ref=e428]
+    - generic [ref=e431]:
+      - generic [ref=e432]:
+        - heading "Read Our Latest Articles" [level=2] [ref=e433]
+        - button "Visit Our Blog" [ref=e434] [cursor=pointer]
+      - generic [ref=e435]:
+        - article [ref=e436]:
+          - generic [ref=e438]: Design
+          - generic [ref=e439]:
+            - paragraph [ref=e440]: June 24, 2024
+            - heading "Skills That You Can Learn From Business" [level=3] [ref=e441]
+            - button "Read More" [ref=e442] [cursor=pointer]:
+              - text: Read More
+              - img [ref=e443]
+        - article [ref=e445]:
+          - generic [ref=e447]: Design
+          - generic [ref=e448]:
+            - paragraph [ref=e449]: June 24, 2024
+            - heading "Online Resources For Learning About" [level=3] [ref=e450]
+            - button "Read More" [ref=e451] [cursor=pointer]:
+              - text: Read More
+              - img [ref=e452]
+        - article [ref=e454]:
+          - generic [ref=e456]: Design
+          - generic [ref=e457]:
+            - paragraph [ref=e458]: June 24, 2024
+            - heading "7 Common Mistakes Everyone Makes" [level=3] [ref=e459]
+            - button "Read More" [ref=e460] [cursor=pointer]:
+              - text: Read More
+              - img [ref=e461]
+    - generic [ref=e466]:
+      - heading "Unlock Your Potential With iDemy" [level=2] [ref=e467]
+      - paragraph [ref=e468]: Discover the place to access a wide range of professional development with iDemy courses, designed to align with your aspirations and ambitions.
+      - generic [ref=e469]:
+        - textbox "Enter your email address" [ref=e470]
+        - button "Subscribe Now" [ref=e471] [cursor=pointer]
+  - contentinfo [ref=e472]:
+    - generic [ref=e473]:
+      - generic [ref=e474]:
+        - generic [ref=e475]:
+          - link "iDemy" [ref=e476] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e478]
+            - text: iDemy
+          - paragraph [ref=e481]: Discover the place to access a wide range of professional development courses designed to align with your goals.
+          - generic [ref=e482]:
+            - link "f" [ref=e483] [cursor=pointer]:
+              - /url: "#"
+            - link "in" [ref=e484] [cursor=pointer]:
+              - /url: "#"
+            - link "x" [ref=e485] [cursor=pointer]:
+              - /url: "#"
+            - link "ig" [ref=e486] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e487]:
+          - heading "Pages" [level=4] [ref=e488]
+          - list [ref=e489]:
+            - listitem [ref=e490]:
+              - link "Home Page" [ref=e491] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e492]:
+              - link "About Us" [ref=e493] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e494]:
+              - link "Courses" [ref=e495] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e496]:
+              - link "Pricing Plan" [ref=e497] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e498]:
+              - link "Blog" [ref=e499] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e500]:
+              - link "Contact Us" [ref=e501] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e502]:
+              - link "Instructors" [ref=e503] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e504]:
+          - heading "Categories" [level=4] [ref=e505]
+          - list [ref=e506]:
+            - listitem [ref=e507]:
+              - link "IT & Software" [ref=e508] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e509]:
+              - link "Business Guide" [ref=e510] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e511]:
+              - link "Development" [ref=e512] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e513]:
+              - link "Marketing" [ref=e514] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e515]:
+              - link "Graphic Design" [ref=e516] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e517]:
+              - link "Product Design" [ref=e518] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e519]:
+          - heading "CMS Page" [level=4] [ref=e520]
+          - list [ref=e521]:
+            - listitem [ref=e522]:
+              - link "Courses Details" [ref=e523] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e524]:
+              - link "Blog Details" [ref=e525] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e526]:
+              - link "Pricing Plan" [ref=e527] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e528]:
+              - link "News & Blog" [ref=e529] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e530]:
+              - link "Privacy Policy" [ref=e531] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e532]:
+              - link "Terms & Setup" [ref=e533] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=e534]: © Copyright 2024 iDemy — All Rights Reserved

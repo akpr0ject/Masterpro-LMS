@@ -1,0 +1,4 @@
+[     728ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://itsdispatch.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    3055ms] Uncaught NotSupportedError: Failed to execute 'define' on 'CustomElementRegistry': the name "respond-io-widget" has already been used with this registry
+    at shadow (https://cdn.respond.io/widget/widget.js?wId=7d4776de-3ce8-4909-94c7-5afb45135818:5:104731)
+    at qn (https://cdn.respond.io/widget/widget.js?wId=7d4776de-3ce8-4909-94c7-5afb45135818:5:104743)

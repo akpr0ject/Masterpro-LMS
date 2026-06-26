@@ -1,0 +1,357 @@
+[      20ms] ReferenceError: elementorCommon is not defined
+    at WpDashboardTracking.isEditorOneActive (https://idemy.kitkitgo.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.34.3:1:27934)
+    at WpDashboardTracking.destroy (https://idemy.kitkitgo.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.34.3:1:33066)
+    at https://idemy.kitkitgo.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.34.3:1:33620
+[     284ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:21548
+[  435797ms] [ERROR] SyntaxError: The requested module '/src/components/motion.jsx?t=1782373811200' does not provide an export named 'FloatBadge' @ http://localhost:5173/@vite/client:173
+[  435798ms] [ERROR] [hmr] Failed to reload /src/sections/Hero.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  435882ms] [ERROR] SyntaxError: The requested module '/src/components/motion.jsx?t=1782373811200' does not provide an export named 'FloatBadge' @ http://localhost:5173/@vite/client:173
+[  435883ms] [ERROR] [hmr] Failed to reload /src/sections/FeatureSplit.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  436033ms] [ERROR] SyntaxError: The requested module '/src/components/motion.jsx?t=1782373811200' does not provide an export named 'FloatBadge' @ http://localhost:5173/@vite/client:173
+[  436033ms] [ERROR] [hmr] Failed to reload /src/sections/FinalCTA.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  448787ms] ReferenceError: fadeUp is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373824378:28:23)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  448792ms] ReferenceError: fadeUp is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373824378:28:23)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  448816ms] [ERROR] The above error occurred in the <Hero> component:
+
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373824378:28:23)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[  448832ms] ReferenceError: fadeUp is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373824378:28:23)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
+[  465567ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373841127:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  465613ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373841127:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  465647ms] [ERROR] The above error occurred in the <Hero> component:
+
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373841127:159:15)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[  465690ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373841127:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
+[  473169ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373848742:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  473232ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373848742:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  473297ms] [ERROR] The above error occurred in the <Hero> component:
+
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373848742:159:15)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[  473302ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373848742:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
+[  482481ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373858082:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  482509ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373858082:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  482559ms] [ERROR] The above error occurred in the <Hero> component:
+
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373858082:159:15)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[  482562ms] ReferenceError: FloatBadge is not defined
+    at Hero (http://localhost:5173/src/sections/Hero.jsx?t=1782373858082:159:15)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
+[  491202ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/sections/Hero.jsx?t=1782373866769:0
+[  491206ms] [ERROR] [hmr] Failed to reload /src/sections/Hero.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:175
+[  607608ms] ReferenceError: FloatBadge is not defined
+    at FeatureSplit (http://localhost:5173/src/sections/FeatureSplit.jsx?t=1782373983179:42:9)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  607609ms] ReferenceError: FloatBadge is not defined
+    at FeatureSplit (http://localhost:5173/src/sections/FeatureSplit.jsx?t=1782373983179:42:9)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  607612ms] [ERROR] The above error occurred in the <FeatureSplit> component:
+
+    at FeatureSplit (http://localhost:5173/src/sections/FeatureSplit.jsx?t=1782373983179:42:9)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[  607614ms] ReferenceError: FloatBadge is not defined
+    at FeatureSplit (http://localhost:5173/src/sections/FeatureSplit.jsx?t=1782373983179:42:9)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
+[  616285ms] ReferenceError: fadeUp is not defined
+    at FeatureSplit (http://localhost:5173/src/sections/FeatureSplit.jsx?t=1782373991846:83:54)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  616365ms] ReferenceError: fadeUp is not defined
+    at FeatureSplit (http://localhost:5173/src/sections/FeatureSplit.jsx?t=1782373991846:83:54)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  616381ms] [ERROR] The above error occurred in the <FeatureSplit> component:
+
+    at FeatureSplit (http://localhost:5173/src/sections/FeatureSplit.jsx?t=1782373991846:83:54)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[  616384ms] ReferenceError: fadeUp is not defined
+    at FeatureSplit (http://localhost:5173/src/sections/FeatureSplit.jsx?t=1782373991846:83:54)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
+[  655455ms] ReferenceError: fadeUp is not defined
+    at FinalCTA (http://localhost:5173/src/sections/FinalCTA.jsx?t=1782374031020:126:21)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  655457ms] ReferenceError: fadeUp is not defined
+    at FinalCTA (http://localhost:5173/src/sections/FinalCTA.jsx?t=1782374031020:126:21)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  655462ms] [ERROR] The above error occurred in the <FinalCTA> component:
+
+    at FinalCTA (http://localhost:5173/src/sections/FinalCTA.jsx?t=1782374031020:126:21)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[  655461ms] ReferenceError: fadeUp is not defined
+    at FinalCTA (http://localhost:5173/src/sections/FinalCTA.jsx?t=1782374031020:126:21)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14580:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15922:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
+[  674112ms] ReferenceError: fadeUp is not defined
+    at FinalCTA (http://localhost:5173/src/sections/FinalCTA.jsx?t=1782374049670:118:21)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  674159ms] ReferenceError: fadeUp is not defined
+    at FinalCTA (http://localhost:5173/src/sections/FinalCTA.jsx?t=1782374049670:118:21)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3672:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3697:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:3731:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19763:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+[  674165ms] [ERROR] The above error occurred in the <FinalCTA> component:
+
+    at FinalCTA (http://localhost:5173/src/sections/FinalCTA.jsx?t=1782374049670:118:21)
+    at main
+    at div
+    at MotionConfig (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=1d06c898:677:25)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14029
+[  674165ms] ReferenceError: fadeUp is not defined
+    at FinalCTA (http://localhost:5173/src/sections/FinalCTA.jsx?t=1782374049670:118:21)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:11546:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:14924:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:15912:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19751:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19196:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19135:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:19114:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18734:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-BCXODTBQ.js?v=1d06c898:18877:28)
